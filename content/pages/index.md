@@ -33,7 +33,16 @@ sections:
         textAlign: center
         borderStyle: dotted
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: >+
       <div style="text-align: center">***
 
