@@ -106,7 +106,7 @@ sections:
         flexDirection: row
         textAlign: center
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: full
     title: The Arrival
     subtitle: 'Welcome to Evania Voss Works, Where the Divine Meets the Digital.'
