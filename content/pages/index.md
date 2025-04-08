@@ -44,12 +44,11 @@ sections:
         style: primary
         elementId: ''
     text: >+
-      <div style="text-align: center"># ******# ***Step through the veil and
-      into the realm of Evania Voss Noctis, an ethereal artist whose works
-      transcend mortal imagination. Here, magic lives in pixels, and every
-      creation is a relic from a realm untold.******===
-
-      ![](/images/ChatGPT%20Image%20Apr%208,%202025,%2011_27_14%20AM.png)</div>
+      <div style="text-align: center"># *Step through the veil and into the
+      realm of Evania Voss Noctis, an ethereal artist whose works transcend
+      mortal imagination. Here, magic lives in pixels, and every creation is a
+      relic from a realm
+      untold.*![](/images/ChatGPT%20Image%20Apr%208,%202025,%2011_27_14%20AM.png)</div>
 
   - type: ContactSection
     title: Contact Me
