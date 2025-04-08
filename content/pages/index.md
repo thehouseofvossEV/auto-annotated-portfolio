@@ -54,7 +54,7 @@ sections:
         flexDirection: row-reverse
         textAlign: center
         borderColor: border-(--theme-primary)
-        borderStyle: solid
+        borderStyle: none
         borderRadius: none
   - type: ContactSection
     title: Contact Me
