@@ -36,6 +36,7 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: left
+        borderStyle: dashed
     type: HeroSection
     actions: []
   - colors: colors-f
