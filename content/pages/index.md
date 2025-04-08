@@ -38,7 +38,7 @@ sections:
         channels divinity through digital mediums. Her works are not drawn but
         conjured. "I do not draw what I see; I draw what I remember from
         lifetimes past.”
-      elementId: ''
+      elementId: “Who is Evania Voss? 2516
     colors: colors-d
     backgroundSize: full
     elementId: ''
