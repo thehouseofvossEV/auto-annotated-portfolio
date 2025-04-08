@@ -55,7 +55,7 @@ sections:
         textAlign: center
         borderColor: border-(--theme-primary)
         borderStyle: solid
-        borderRadius: small
+        borderRadius: none
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
