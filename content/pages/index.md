@@ -54,6 +54,7 @@ sections:
         flexDirection: row-reverse
         textAlign: center
         borderColor: border-(--theme-primary)
+        borderStyle: solid
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
