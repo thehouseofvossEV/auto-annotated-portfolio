@@ -52,7 +52,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row-reverse
-        textAlign: left
+        textAlign: center
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
