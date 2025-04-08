@@ -31,7 +31,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/XIpfBmusGDEtZiPDOzd0--0--q93n8.jpg
-      altText: Hero image
+      altText: E. Voss N.
       caption: Caption of the image
       elementId: ''
     colors: colors-d
