@@ -1,0 +1,27 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Evania Voss N.",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "art"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/XIpfBmusGDEtZiPDOzd0--0--q93n8.jpg",
+                    "$$type": "__asset_model"
+                },
+                "altText": "Hero image",
+                "caption": "Caption of the image",
+                "elementId": ""
+            },
+            "thumbnail": "images/image-block-evania-voss-n.-30ff.png"
+        }
+    ]
+}
