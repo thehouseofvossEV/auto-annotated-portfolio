@@ -12,5 +12,5 @@
     "onComplementary": "#c100c1",
     "fontBody": "\"Azeret Mono\", monospace",
     "headingWeight": "400",
-    "headingCase": "lowercase"
+    "headingCase": "capitalize"
 }
