@@ -107,7 +107,7 @@ sections:
         textAlign: center
   - elementId: ''
     colors: colors-c
-    backgroundSize: full
+    backgroundSize: inset
     title: The Arrival
     subtitle: 'Welcome to Evania Voss Works, Where the Divine Meets the Digital.'
     styles:
