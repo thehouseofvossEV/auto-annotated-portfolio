@@ -33,11 +33,11 @@ sections:
       url: /images/XIpfBmusGDEtZiPDOzd0--0--q93n8.jpg
       altText: E. Voss N.
       caption: >-
-        “Who is Evania Voss?Bio: She is not of this Earth. Evania Voss Noctis is
-        an enigma wrapped in light and shadow—a visionary artist who channels
-        divinity through digital mediums. Her works are not drawn, but
-        conjured.Optional Quote:“I do not draw what I see—I draw what I remember
-        from lifetimes past.”
+        “Who is Evania Voss? Bio: She is not of this Earth. Evania Voss Noctis
+        is an enigma wrapped in light and shadow, a visionary artist who
+        channels divinity through digital mediums. Her works are not drawn but
+        conjured. "I do not draw what I see; I draw what I remember from
+        lifetimes past.”
       elementId: ''
     colors: colors-d
     backgroundSize: full
