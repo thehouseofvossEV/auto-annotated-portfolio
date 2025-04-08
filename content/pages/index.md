@@ -35,7 +35,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: col-reverse
-        textAlign: left
+        textAlign: center
         borderStyle: dotted
     type: HeroSection
     actions: []
