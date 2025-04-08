@@ -53,6 +53,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: center
+        borderColor: border-(--theme-primary)
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
